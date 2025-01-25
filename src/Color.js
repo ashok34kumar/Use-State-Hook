@@ -1,3 +1,12 @@
+/*
+React useEffect Hooks definition:
+useState is a Hook that lets you add React state to function components. By calling this Hook, you can declare a state variable and a function to update it.
+-----------------------------------------------------------------
+Syntax:
+const [state, setState] = useState(initialState);
+-----------------------------------------
+*/
+
 import React from "react";
 import React, { useState } from "react";
 
